@@ -14,7 +14,7 @@ public class Main {
         for (int i = 1; i <= n; i++) {
             ourDeque.add(i);
         }
-        System.out.println("Вот последовательнсоть: " + ourDeque);
+        System.out.println("Вот последовательноcть: " + ourDeque);
 
         System.out.println("Вот перевернутая последовательность: ");
         while (ourDeque.size() > 0) {
